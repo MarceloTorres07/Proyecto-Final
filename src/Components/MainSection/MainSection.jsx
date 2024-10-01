@@ -1,5 +1,5 @@
 import Titulo from './Titulo.jsx';
-import './mainsection.css;
+import './mainsection.css';
 
 export default function MainSection({titulo}) {
     return (

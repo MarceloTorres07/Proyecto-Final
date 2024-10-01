@@ -1,7 +1,7 @@
 import './titulo.css';
 
 export default function Titulo({titulo}) {
-    return (
+    return(
         <div className="section-title">
             <h1>{titulo}</h1>
 
