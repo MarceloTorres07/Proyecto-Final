@@ -14,9 +14,11 @@ function App() {
         <>
             <Header/>
 
+
             <MainSection
                 titulo="Bienvenido a Nuestra Página"
             />
+
 
             <Footer/>
 
