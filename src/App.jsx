@@ -3,7 +3,7 @@ import './App.css'
 
 
 
-import Footer from "./src/Components/Footer/Footer.jsx";
+import Footer from './Footer'
 import Header from "./src/components/Header/Header.jsx";
 import MainSection from './src/components/MainSection/MainSection.jsx';
 
