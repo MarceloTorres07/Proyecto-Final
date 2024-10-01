@@ -3,9 +3,9 @@ import './App.css'
 
 
 
-import Footer from "./Components/Footer/Footer.jsx";
-import Header from "./components/Header/Header.jsx";
-import MainSection from './components/MainSection/MainSection.jsx';
+import Footer from "./src/Components/Footer/Footer.jsx";
+import Header from "./src/components/Header/Header.jsx";
+import MainSection from './src/components/MainSection/MainSection.jsx';
 
 function App() {
 
