@@ -27,16 +27,6 @@ export const products = [
         img: 'https://demos.webicode.com/html/eco-shop-html/html/images/product-2-3.jpg',
     },
 
-    {
-        id: 4,
-        name:'producto cuatro',
-        precio: 499,
-        descripcion: "descripcion del producto cuatro",
-        stock: 26,
-        img: 'https://demos.webicode.com/html/eco-shop-html/html/images/product-2-4.jpg'
-
-    }
-
 
 
 
