@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import { getProductByCategoria } from "../../data/DataItem.jsx";
+import { getProductByCategoria } from "../../Data/DataItem.jsx";
 import ItemList from "../ItemList/ItemList";
-import Loading from "../Loading/Loading";
+import Loading from "../Loading/Loading.jsx";
 
 export default function ProductsCategory(){
     const [loading, setLoading] = useState(true);
